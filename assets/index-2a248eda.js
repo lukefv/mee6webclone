@@ -1,0 +1,1 @@
+import{u as s,j as n,F as a}from"./index-4d37af9a.js";const o=o=>{const{loading:r}=s();return r?n.jsx("span",{children:" "}):n.jsx(a,{...o})};export{o as I};
